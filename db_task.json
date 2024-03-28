@@ -1,0 +1,264 @@
+{
+   "data": [
+      {
+         "title": "Workout Sunday",
+         "maintype": "DAY",
+         "time": [
+            "5:0 AM",
+            "6:0 AM"
+         ],
+         "day": [
+            "NaN",
+            "NaN"
+         ],
+         "day_range": [
+            "NaN",
+            "NaN"
+         ],
+         "last_updated": "2022-12-20-17-50-20",
+         "completion": true,
+         "refID": 80651167691867945962516046061715138953,
+         "id": 428978044963203737
+      },
+      {
+         "title": "Sunday Special Juice Mix",
+         "maintype": "DAY",
+         "time": [
+            "7:0 AM",
+            "7:15 AM"
+         ],
+         "day": [
+            "NaN",
+            "NaN"
+         ],
+         "day_range": [
+            "NaN",
+            "NaN"
+         ],
+         "last_updated": "2022-12-20-17-50-20",
+         "completion": true,
+         "refID": 45637317703801040911961767176814580969,
+         "id": 121128238898452370
+      },
+      {
+         "title": "Reading Book",
+         "maintype": "DAY",
+         "time": [
+            "9:0 AM",
+            "10:0 AM"
+         ],
+         "day": [
+            "NaN",
+            "NaN"
+         ],
+         "day_range": [
+            "NaN",
+            "NaN"
+         ],
+         "last_updated": "2022-12-20-17-50-20",
+         "completion": true,
+         "refID": 90418268630455336976074245793603815394,
+         "id": 609835623644835713
+      },
+      {
+         "title": "Writing lyrics for the 'Falling Out'",
+         "maintype": "DAY",
+         "time": [
+            "12:0 PM",
+            "3:0 PM"
+         ],
+         "day": [
+            "NaN",
+            "NaN"
+         ],
+         "day_range": [
+            "NaN",
+            "NaN"
+         ],
+         "last_updated": "2022-12-20-17-50-20",
+         "completion": true,
+         "refID": 324880575071744213819056033441832621978,
+         "id": 179344510020945452
+      },
+      {
+         "title": "No Fish Day",
+         "maintype": "WEEK",
+         "time": [
+            "NaN",
+            "NaN"
+         ],
+         "day": [
+            "2023-01-03",
+            "2023-01-03"
+         ],
+         "day_range": [
+            "NaN",
+            "NaN"
+         ],
+         "last_updated": "2022-12-20-17-50-20",
+         "completion": true,
+         "refID": 265396997183729231347786994470922158161,
+         "id": 257704641273875983
+      },
+      {
+         "title": "Work Trip to Belgium",
+         "maintype": "WEEK",
+         "time": [
+            "NaN",
+            "NaN"
+         ],
+         "day": [
+            "2023-01-04",
+            "2023-01-05"
+         ],
+         "day_range": [
+            "NaN",
+            "NaN"
+         ],
+         "last_updated": "2022-12-20-17-50-20",
+         "completion": false,
+         "refID": 124724551405694881705548891709680547768,
+         "id": 201681367665637325
+      },
+      {
+         "title": "DJ Night at Tomorrowland",
+         "maintype": "WEEK",
+         "time": [
+            "NaN",
+            "NaN"
+         ],
+         "day": [
+            "2023-01-06",
+            "2023-01-06"
+         ],
+         "day_range": [
+            "NaN",
+            "NaN"
+         ],
+         "last_updated": "2022-12-20-17-50-20",
+         "completion": false,
+         "refID": 337593167850714745471426681197147049481,
+         "id": 207212313289753623
+      },
+      {
+         "title": "No Fruit Day",
+         "maintype": "WEEK",
+         "time": [
+            "NaN",
+            "NaN"
+         ],
+         "day": [
+            "2023-01-09",
+            "2023-01-09"
+         ],
+         "day_range": [
+            "NaN",
+            "NaN"
+         ],
+         "last_updated": "2022-12-20-17-50-20",
+         "completion": false,
+         "refID": 182101940724415660264610203181996229680,
+         "id": 278956435396545116
+      },
+      {
+         "title": "Short Film Shoot",
+         "maintype": "MONTH",
+         "time": [
+            "NaN",
+            "NaN"
+         ],
+         "day": [
+            "NaN",
+            "NaN"
+         ],
+         "day_range": [
+            "2023-01-07",
+            "2023-01-10"
+         ],
+         "last_updated": "2022-12-20-17-50-20",
+         "completion": false,
+         "refID": 168204583316078125815570177559832631249,
+         "id": 261014802714243123
+      },
+      {
+         "title": "Marketing Staff Management",
+         "maintype": "MONTH",
+         "time": [
+            "NaN",
+            "NaN"
+         ],
+         "day": [
+            "NaN",
+            "NaN"
+         ],
+         "day_range": [
+            "2023-01-12",
+            "2023-01-16"
+         ],
+         "last_updated": "2022-12-20-17-50-20",
+         "completion": false,
+         "refID": 133650998605717517912652674389872496562,
+         "id": 129154199509584806
+      },
+      {
+         "title": "Chill at Home + Dine-out ❄",
+         "maintype": "MONTH",
+         "time": [
+            "NaN",
+            "NaN"
+         ],
+         "day": [
+            "NaN",
+            "NaN"
+         ],
+         "day_range": [
+            "2023-01-25",
+            "2023-01-26"
+         ],
+         "last_updated": "2022-12-20-17-50-20",
+         "completion": false,
+         "refID": 136172366066961404573064561026637283422,
+         "id": 199883813800493161
+      },
+      {
+         "title": "Writing Score Composition",
+         "maintype": "MONTH",
+         "time": [
+            "NaN",
+            "NaN"
+         ],
+         "day": [
+            "NaN",
+            "NaN"
+         ],
+         "day_range": [
+            "2023-01-28",
+            "2023-01-31"
+         ],
+         "last_updated": "2022-12-20-17-50-20",
+         "completion": false,
+         "refID": 184524507432454346746481566000844654299,
+         "id": 937157178566207733
+      },
+      {
+         "title": "Work out",
+         "maintype": "DAY",
+         "time": [
+            "6:30 AM",
+            "7:30 AM"
+         ],
+         "day": [
+            "NaN",
+            "NaN"
+         ],
+         "day_range": [
+            "NaN",
+            "NaN"
+         ],
+         "last_updated": "2022-12-20-17-50-20",
+         "completion": false,
+         "refID": 181709443499127792701510287618707282867,
+         "id": 986615741091689306
+      }
+   ]
+}
